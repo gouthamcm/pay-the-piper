@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">buttons</string>
+    <string name="button">Button</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_5">5</string>
+    <string name="_10">10</string>
+    <string name="reset">RESET</string>
+    <string name="required_amount">required amount</string>
+    <string name="amount_paid">amount paid</string>
+    <string name="enter_the_amount">enter the amount</string>
+</resources>
